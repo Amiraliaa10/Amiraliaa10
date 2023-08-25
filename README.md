@@ -21,3 +21,7 @@
 
 <img src=
 "https://cdn.britannica.com/57/183257-050-0BA11B4B/Roger-Federer-2012.jpg"> 
+
+## Wrestling 
+
+<img src="https://media.tehrantimes.com/d/t/2021/10/04/4/3911659.jpg"> 
