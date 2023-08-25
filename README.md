@@ -6,7 +6,7 @@
 
 ## Basketball
 
-<img src = "https://en.m.wikipedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg"> 
+<img src = "https://static01.nyt.com/images/2022/09/02/sports/02nba-lebron-1/merlin_203874528_da0d084d-e216-41b4-b8e5-d1f681a8f2e2-mobileMasterAt3x.jpg?quality=75&auto=webp&disable=upscale&width=1200">
 
 ## Footsall 
 
