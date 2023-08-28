@@ -30,7 +30,3 @@
 
 <img src="https://images.sportsbrief.com/images/720/aaf1d2d1c308c7c3.webp?v=1"> 
 
-##  KING AMIRALI 
-
-<img
-src="https://avatars.githubusercontent.com/u/143215877?s=400&u=582ef42b2461e987d187bac0da2c25fabf5e3b56&v=4"> 
