@@ -30,7 +30,3 @@
 
 <img src="https://images.sportsbrief.com/images/720/aaf1d2d1c308c7c3.webp?v=1"> 
 
-## Esteghlal
-
-<img
-src="IMG_20230825_144832_150"> 
