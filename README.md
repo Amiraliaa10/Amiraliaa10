@@ -37,4 +37,5 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 
 ## GAMER 🎮
 
-<imgsrc="https://media.githubusercontent.com/avatars/32527360?orig=1&token=BCEU2BPREHG3DAJCH62FTPLE5SQNU"> 
+<img
+, src="https://media.githubusercontent.com/avatars/32527360?orig=1&token=BCEU2BPREHG3DAJCH62FTPLE5SQNU"> 
