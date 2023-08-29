@@ -39,7 +39,6 @@ src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs
 src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQTTVS7CF6PERVHILE5SP3I"> 
 
 ## GAMER 
-
 <img
 src="https://media.githubusercontent.com/avatars/32548073?orig=1&token=BCEU2BIOKV7EX4ML4OZZYI3E5XQSU"> 
 
@@ -47,5 +46,3 @@ src="https://media.githubusercontent.com/avatars/32548073?orig=1&token=BCEU2BIOK
 <img
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
-<ing
-src="https://camo.githubusercontent.com/547b8207d3540e5267a98dee3f4bb55776bba64bfb94aaed59fe88bd0fb1b6f5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41484768313338362673686f775f69636f6e733d74727565267468656d653d68696768636f6e7472617374"> 
