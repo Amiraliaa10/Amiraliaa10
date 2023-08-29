@@ -38,5 +38,10 @@ src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs
 <img
 src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQTTVS7CF6PERVHILE5SP3I"> 
 
+## GAMER 
+
+<img
+src=" https://media.githubusercontent.com/avatars/32548073?orig=1&token=BCEU2BIOKV7EX4ML4OZZYI3E5XQSU"> 
+
 <img
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
