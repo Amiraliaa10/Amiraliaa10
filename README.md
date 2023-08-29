@@ -1,4 +1,7 @@
 <img
+src="https://github.com/ngud-0119?achievement=galaxy-brain&tab=achievements"> 
+
+<img
 src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif"> 
 
 # 👋🏻Hi there I'm Amirali Rajabpoor
