@@ -47,13 +47,6 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 ## GAMER 🎮
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/505/162/desktop-wallpaper-gaming-profile-gamer-profile.jpg">
- 
-## WWE
-
-<a href ="content://media/external/downloads/1000010184" > content://media/external/downloads/1000010184 </a>
-
- 
-
 
 ## How to reach me:
 
