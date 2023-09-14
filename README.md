@@ -47,9 +47,7 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 ## GAMER 🎮
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/505/162/desktop-wallpaper-gaming-profile-gamer-profile.jpg">
-
-<img
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
+ 
 
 ## How to reach me:
 
