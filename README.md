@@ -56,3 +56,10 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## How to reach me:
 
 <img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+
+## 🟥 If Iranians want to connect me easier:
+
+You can connect with me in Rubika
+
+<a href="https://rubika.ir/KING_FOOTBALL_X"><img src="https://rubika.ir/static/images/logos/colorfull/logo01.png"><a>
