@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/m
 
 ## Wrestling 🤼‍♂️
 
-<img src="https://media.tehrantimes.com/d/t/2021/10/04/4/3911659.jpg"> 
+<img src="https://media.tehrantimes.com/d/t/2021/10/04/4/3911659.jpg">
 
 ## Handball 🤾‍♂️
 
@@ -47,8 +47,7 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 
 ## GAMER 🎮
 
-<img
-src="https://media.githubusercontent.com/avatars/32548073?orig=1&token=BCEU2BIOKV7EX4ML4OZZYI3E5XQSU"> 
+<img src="https://e1.pxfuel.com/desktop-wallpaper/505/162/desktop-wallpaper-gaming-profile-gamer-profile.jpg">
 
 <img
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
