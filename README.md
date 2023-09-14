@@ -7,8 +7,7 @@ src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs
 <img
 src="https://camo.githubusercontent.com/b89e0cfe3f5aae3808922f9f65599d9c4ac9c537b538c5611bd5c92c7bf23717/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f624151483757584b717449427250733773522f67697068792e676966"> 
 
-<img width ="95" height= "95"
-src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Skills:
+## <img width ="95" height= "95" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"> Skills:
 
 ## Football ⚽
 
