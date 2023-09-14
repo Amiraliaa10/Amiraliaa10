@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/m
 
 ## Wrestling 🤼‍♂️
 
-<img src="https://media.tehrantimes.com/d/t/2021/10/04/4/3911659.jpg">
+<img src="https://github.com/Amiraliaa10/Amiraliaa10/blob/main/3911659.jpg">
 
 ## Handball 🤾‍♂️
 
