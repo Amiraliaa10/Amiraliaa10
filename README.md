@@ -57,7 +57,7 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 
 You can connect with me in Rubika
 
-<a href="https://rubika.ir/KING_FOOTBALL_X"><img src="https://rubika.ir/static/images/logos/colorfull/logo01.png"><a>
+<a href="https://rubika.ir/FOOTBALL_X_GAMER"><img src="https://rubika.ir/static/images/logos/colorfull/logo01.png"><a>
 
 
 
