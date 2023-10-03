@@ -55,6 +55,11 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width = 140 height= 45 src="https://rubika.ir/static/images/logos/colorfull/logo01.png">
+    </td>
+  </tr>
 </table>
 
 
