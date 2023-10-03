@@ -59,6 +59,9 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
     <td>
       <img width = 140 height= 45 src="https://rubika.ir/static/images/logos/colorfull/logo01.png">
     </td>
+    <td>
+      <img width = 140 height= 45 src="">
+    </td>
   </tr>
 </table>
 
