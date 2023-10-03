@@ -62,6 +62,9 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
     <td>
       <img width = 140 height= 45 src="https://github.com/Amiraliaa10/Amiraliaa10/blob/main/IMG_20231003_151335.jpg">
     </td>
+    <td>
+      <img width = 140 height= 45 src="https://aftabnews.ir/files/fa/news/1402/5/4/1148476_792.jpg">
+    </td>
   </tr>
 </table>
 
