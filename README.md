@@ -46,8 +46,16 @@ src="https://media.githubusercontent.com/avatars/32527276?orig=1&token=BCEU2BNQT
 <img src="https://e1.pxfuel.com/desktop-wallpaper/505/162/desktop-wallpaper-gaming-profile-gamer-profile.jpg">
 
 ## How to reach me:
-
-<img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<table align = "center">
+  <tr>
+    <td>
+<img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+    </td>
+      <td>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🟥 If Iranians want to connect me easier:
